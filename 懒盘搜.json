@@ -1,0 +1,14 @@
+{
+    "搜索请求头参数": "User-Agent$PC_UA#Referer$https://www.lzpanx.com/",
+    "搜索链接": "https://www.lzpanx.com/search?format=doc&format=video&page=1&q={wd}&share_time=&type=ALY&user=",
+    "POST请求数据": "",
+    "搜索截取模式": "1",
+    "搜索列表数组规则": ".disk-list&&a",
+    "搜索片单是否Jsoup写法": "1",
+    "搜索片单图片": "./ali.jpeg",
+    "搜索片单标题": "a&&title",
+    "搜索片单链接": "a&&href",
+    "搜索片单副标题": "a&&Text",
+    "搜索片单链接加前缀": "",
+    "搜索片单链接加后缀": ""
+}

@@ -61,7 +61,6 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "playerType":1,
      "jar":"https://jihulab.com/run1006/hdr/-/raw/main/jar/vip.jar",
      "ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"
     },

@@ -303,7 +303,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {"key":"横版影院","name":"🍭短剧横版","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","动漫片","斯诺克","连续剧","动作片","喜剧片","恐怖片"]},
+    {"key":"横版影院","name": "🍭短剧横版","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","动漫片","斯诺克","连续剧","动作片","喜剧片","恐怖片"]},
     {"key":"532短剧","name": "💓超速┃短剧","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/run1006/hdr/-/raw/main/XBPQ.jar","ext":"./短剧侠.json"},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"},      
 {"key":"lvdou","name":"👩‍❤️‍💋‍👨短剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},

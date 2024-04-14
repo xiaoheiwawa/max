@@ -7,6 +7,7 @@
   "sites":[
     {"key":"豆瓣","name":"📽️聚🈴搜索","type":3,"api":"csp_Douban","searchable":0},
     {"key":"网盘配置","name":"🅰️阿里Token配置✅","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/tokenm.json","jar":"https://jihulab.com/run1006/hdr/-/raw/main/pg.jar"},
+    {"key":"csp_文才","name":"在线秒播-💯┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://d.kstore.space/download/4620/%E6%96%87%E6%89%8D.json"},
     {"key":"玩偶","name":"4K弹幕-💯┃vip","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},"jar":"https://d.kstore.space/download/6509/A/B/C/D/E/F/G/jar/%E9%A5%AD%E5%8E%9F%E7%89%88"},
     {"key": "玩我哥哥","name":"4K云仓-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/%E7%8E%A9%E6%88%91.json"},
     {"key":"csp_XYQHikerAL_土豆阿里","name":"4K阿里💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/土豆.json"},
@@ -25,7 +26,6 @@
       "ext": "https://gitlab.com/xmbjm/zrj/-/raw/main/lib/TVB云播.js"
     },
     {"key": "csp_魔力影视","name":"魔力2K-💯┃vip","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://d.kstore.space/download/4620/%E9%AD%94%E5%8A%9B.json"},
-    {"key":"csp_文才","name":"秒播有广-💯┃vip","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://d.kstore.space/download/4620/%E6%96%87%E6%89%8D.json"},
     {
       "key": "csp_qx",
       "name": "七新云仓-💯┃vip",

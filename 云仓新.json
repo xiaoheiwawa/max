@@ -12,7 +12,7 @@
     {"key":"csp_XYQHikerAL_土豆阿里","name":"4K阿里💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/土豆.json"},
     {"key":"csp_XYQHikerAL_玩偶表哥","name":"4K表哥💯┃vip","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/表哥.json"},
     //{"key":"csp_XYQHikerAL_玩你老哥","name":"4K多多-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./云仓专线.json","jar":"./云仓专线.jar"},
-    {"key": "csp_XYQHikerAL_4KHDR","name":"4KHDR-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/4KHDR.json"},
+    {"key": "csp_XYQHikerAL_4KHDR","name":"4KHDR-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/4KHDR.json"},
     //{"key": "Fangniu4k","name": "影探放牛💯┃4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":1,"playerType": 1,"jar":"./wex.txt"},
     {"key":"白嫖影视","name":"白嫖云仓-💯┃2k","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/baipiao.json"},
     {

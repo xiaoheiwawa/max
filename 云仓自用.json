@@ -20,8 +20,8 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
       "jar": "https://jihulab.com/run1006/hdr/-/raw/main/饭原版.bin"
     },
-    //{"key":"玩偶","name":"4K弹幕-💯┃vip","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},"jar":"https://d.kstore.space/download/6509/A/B/C/D/E/F/G/jar/%E9%A5%AD%E5%8E%9F%E7%89%88"},
-    {"key": "玩我哥哥","name":"4K云仓-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/%E7%8E%A9%E6%88%91.json},
+    //{"key":"玩偶","name":"4K弹幕-💯┃vip","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": ////{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},//"jar":"https://d.kstore.space/download/6509/A/B/C/D/E/F/G/jar/%E9%A5%AD%E5%8E%9F%E7%89%88"},
+    {"key": "玩我哥哥","name":"4K云仓-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/%E7%8E%A9%E6%88%91.json"},
     {"key":"csp_XYQHikerAL_土豆阿里","name":"4K阿里💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/土豆.json"},
     {"key":"csp_XYQHikerAL_玩偶表哥","name":"4K表哥💯┃vip","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/4620/表哥.json"},
     {"key":"csp_XYQHikerAL_玩你老哥","name":"4K多多-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./云仓专线.json","jar":"./云仓专线.jar"},

@@ -8,7 +8,6 @@
     {"key":"豆瓣","name":"📽️聚🈴搜索","type":3,"api":"csp_Douban","searchable":0},
     {"key":"网盘配置","name":"🅰️阿里Token配置✅","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/tokenm.json","jar":"https://jihulab.com/run1006/hdr/-/raw/main/pg.jar"},
     {"key":"csp_文才","name":"云仓在线-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://gitee.com/chenrun1984/4k/raw/master/%E6%96%87%E6%89%8D.json"},
-    //{"key":"T4-mingri","name":"独家专线-💯┃2K","type":4,"api":"https://catbox.n13.club/mingri.php"},
     {
       "key": "csp_qx",
       "name": "云仓2K-💯┃vip",

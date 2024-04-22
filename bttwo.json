@@ -1,0 +1,193 @@
+#coding=utf-8
+#!/usr/bin/python
+import sys
+from base.spider import Spider
+
+sys.path.append('..')
+
+class Spider(Spider):
+	def localProxy(self, param):
+		pass
+	def getName(self):
+		pass
+	def init(self, extend=''):
+		pass
+	def isVideoFormat(self, url):
+		pass
+	def manualVideoCheck(self):
+		pass
+	def homeContent(self, filter):
+		result = {}
+		cateManual = {
+			"热门下载": "hot",
+			"本月热门": "hot-month",
+			"国产剧": "zgjun",
+			"日韩": "jpsrtv",
+			"美剧": "meiju"
+		}
+		classes = []
+		for k in cateManual:
+			classes.append({
+				'type_name': k,
+				'type_id': cateManual[k]
+			})
+		result['class'] = classes
+		return result
+	def homeVideoContent(self):
+		rsp = self.fetch("https://www.bttwo.net/")
+		rsp.encoding = 'utf-8'
+		root = self.html(rsp.text)
+		liList = root.xpath("//div[@class='mi_btcon']/div[2]/ul/li")
+		videos = []
+		for li in liList:
+			name = li.xpath(".//h3[@class='dytit']/a/text()")[0] if li.xpath(".//h3[@class='dytit']/a/text()") else ''
+			pic = li.xpath(".//img/@data-original")[0] if li.xpath(".//img/@data-original") else ''
+			remark = li.xpath(".//div[@class='jidi']/span/text()")[0] if li.xpath(
+				".//div[@class='jidi']/span/text()") else ''
+			sid = li.xpath(".//a/@href")[0].split('/')[-1].split('.')[0] if li.xpath(".//a/@href") else ''
+
+			videos.append({
+				"vod_id": sid,
+				"vod_name": name,
+				"vod_pic": pic,
+				"vod_remarks": remark
+			})
+
+		result = {
+			'list': videos
+		}
+		return result
+
+	def categoryContent(self, tid, pg, filter, extend):
+		result = {}
+		url = 'https://www.bttwo.net/{0}/page/{1}'.format(tid, pg)
+		print(url)
+		rsp = self.fetch(url)
+		rsp.encoding = 'utf-8'
+		root = self.html(rsp.text)
+		liList = root.xpath("//div[@class='mi_cont ']/div[2]/ul/li")
+		videos = []
+		for li in liList:
+			name = li.xpath(".//h3[@class='dytit']/a/text()")[0] if li.xpath(".//h3[@class='dytit']/a/text()") else ''
+			pic = li.xpath(".//img/@data-original")[0] if li.xpath(".//img/@data-original") else ''
+			remark = li.xpath(".//div[@class='jidi']/span/text()")[0] if li.xpath(
+				".//div[@class='jidi']/span/text()") else ''
+			sid = li.xpath(".//a/@href")[0].split('/')[-1].split('.')[0] if li.xpath(".//a/@href") else ''
+
+			videos.append({
+				"vod_id": sid,
+				"vod_name": name,
+				"vod_pic": pic,
+				"vod_remarks": remark
+			})
+		result['list'] = videos
+		result['page'] = pg
+		result['pagecount'] = 9999
+		result['limit'] = 90
+		result['total'] = 999999
+		return result
+	def searchContent(self, key, quick):
+		result = {}
+		videos = []
+		search_url = "https://www.bttwo.net/xsssearch?q={0}".format(key)
+		rsp = self.fetch(search_url)
+		root = self.html(rsp.text)
+		search_nodes = root.xpath("//div[contains(@class, 'bt_img mi_ne_kd search_list')]/ul/li")
+
+		for node in search_nodes:
+			title_nodes = node.xpath(".//h3[@class='dytit']/a/text()")
+			title = title_nodes[0].strip() if title_nodes else ''
+
+			href_nodes = node.xpath(".//h3[@class='dytit']/a/@href")
+			href = href_nodes[0].strip() if href_nodes else ''
+
+			pic_nodes = node.xpath(".//img/@data-original")
+			pic = pic_nodes[0].strip() if pic_nodes else ''
+
+			remark_nodes = node.xpath(".//div[@class='jidi']/span/text()")
+			remark = remark_nodes[0].strip() if remark_nodes else ''
+
+			vod_id = href.split('/')[-1].split('.')[0] if href else ''
+
+			videos.append({
+				"vod_id": vod_id,
+				"vod_name": title,
+				"vod_pic": pic,
+				"vod_remarks": remark
+			})
+
+		result['list'] = videos
+		return result
+
+	def detailContent(self, array):
+		tid = array[0]
+		url = 'https://www.bttwo.net/movie/{0}.html'.format(tid)
+		rsp = self.fetch(url)
+		rsp.encoding = 'utf-8'  # 设置响应的编码为UTF-8
+		root = self.html(rsp.text)
+
+		pic_nodes = root.xpath("//div[@class='dyimg fl']/img/@src")
+		pic = pic_nodes[0] if pic_nodes else ''
+
+		title_nodes = root.xpath("//div[@class='moviedteail_tt']/h1/text()")
+		title = title_nodes[0] if title_nodes else ''
+
+		type_name_nodes = root.xpath("//li[starts-with(text(),'类型：')]/a/text()")
+		type_name = '/'.join(type_name_nodes) if type_name_nodes else ''
+
+		vod_year_nodes = root.xpath("//li[contains(text(),'年份：')]/a/text()")
+		vod_year = vod_year_nodes[0] if vod_year_nodes else ''
+
+		vod_area_nodes = root.xpath("//li[contains(text(),'地区：')]/a/text()")
+		vod_area = vod_area_nodes[0] if vod_area_nodes else ''
+
+		vod_content_nodes = root.xpath("//div[@class='yp_context']")
+		vod_content = ''.join(vod_content_nodes[0].xpath('string(.)').split()) if vod_content_nodes else ''
+
+		vod_director_nodes = root.xpath("//li[contains(text(),'导演：')]/a/text()")
+		vod_director = ' '.join(vod_director_nodes) if vod_director_nodes else ''
+
+		vod_actor_nodes = root.xpath("//li[contains(text(),'主演：')]/a/text()")
+		vod_actor = ' '.join(vod_actor_nodes) if vod_actor_nodes else ''
+
+		vod_remarks_nodes = root.xpath("//li[contains(text(),'又名：')]/a/text()")
+		vod_remarks = ' '.join(vod_remarks_nodes) if vod_remarks_nodes else ''
+
+		vod_play_from = '在线播放'
+
+		playList = []
+		play_nodes = root.xpath("//div[contains(@class,'paly_list_btn')]/a")
+		for play_node in play_nodes:
+			name = play_node.xpath("./text()")[0] if play_node.xpath("./text()") else ''
+			href = play_node.xpath("@href")[0] if play_node.xpath("@href") else ''
+			play_id = href.split('/')[-1].split('.')[0] if href else ''
+			playList.append(name + "$" + play_id)
+		vod_play_url = '#'.join(playList)
+
+		vod = {
+			"vod_id": tid,
+			"vod_name": title,
+			"vod_pic": pic,
+			"type_name": type_name,
+			"vod_year": vod_year,
+			"vod_area": vod_area,
+			"vod_remarks": vod_remarks,
+			"vod_actor": vod_actor,
+			"vod_director": vod_director,
+			"vod_content": vod_content,
+			"vod_play_from": vod_play_from,
+			"vod_play_url": vod_play_url
+		}
+
+		result = {
+			'list': [vod]
+		}
+		return result
+
+	def playerContent(self, flag, id, vipFlags):
+		result = {}
+		result["parse"] = 1
+		result["playUrl"] = ''
+		result["url"] = 'https://www.bttwo.net/v_play/{0}.html'.format(id)
+		result["header"] = ''
+		return result

@@ -160,7 +160,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key": "厂长弹幕版","name": "🏭厂长┃直连","type": 3,"api":"csp_Czzy","searchable":1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/厂长.jar"},
     {
       "key": "csp_Kuaikan",
       "name": "👀┃快看┃影视",

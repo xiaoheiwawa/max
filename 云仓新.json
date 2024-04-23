@@ -36,6 +36,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
+    {"key":"玩偶弹幕","name":"4K原画-💯┃VIP","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","site":"https://www.wogg.xyz","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {
       "key": "玩偶哥哥",
       "name": "4K弹幕-💯|VIP",

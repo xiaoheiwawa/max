@@ -37,6 +37,7 @@
       }
     },
     {"key":"玩偶弹幕","name":"4K原画-💯┃VIP","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","site":"https://www.wogg.xyz","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+    {"key":"夸克土豆弹幕","name":"土豆弹幕-💯┃4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {
       "key": "玩偶哥哥",
       "name": "4K弹幕-💯|VIP",

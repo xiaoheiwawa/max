@@ -286,7 +286,7 @@
     //"api": "https://jihulab.com/run1006/hdr/-/raw/main//kgj.js",
     //"ext": "https://jihulab.com/run1006/hdr/-/raw/main//kg.js"
     //},
-    {"key":"Iktv","name": "🎤KTV┃K歌","type":3,"api": "csp_Iktv","searchable":1, "changeable":0,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/iktv.jar"},
+    {"key":"Iktv","name": "KTV┃可下载到U盘","type":3,"api": "csp_Iktv","searchable":1, "changeable":0,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/iktv.jar"},
     {
     "key": "yinyuetai",
     "name": "💿音悦台┃MV",

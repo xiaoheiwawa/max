@@ -98,7 +98,7 @@
       }
     },
     {"key":"腾讯视频","name":"腾讯视频-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"},
-{"key":"爱奇艺","name":"爱奇艺-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
+//{"key":"爱奇艺","name":"爱奇艺-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
 	{"key":"优酷视频","name":"优酷视频-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"},
 	{"key":"芒果视频","name":"芒果视频-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
 {"key":"子子影视","name":"子子影视-💯┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"},
@@ -279,14 +279,14 @@
       "filterable": 1,
       "ext": "https://d.kstore.space/download/6509/lib3/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
     },
-    {
-    "key": "直播转点播",
-    "name": "🎤点歌┃MV",
-    "type": 3,
-    "searchable": 0,
-    "api": "https://jihulab.com/run1006/hdr/-/raw/main/kgj.js",
-    "ext": "https://jihulab.com/run1006/hdr/-/raw/main/kg.js"
-    },
+    //{
+    //"key": "直播转点播",
+    //"name": "🎤点歌┃MV",
+    //"type": 3,
+    //"searchable": 0,
+    //"api": "https://jihulab.com/run1006/hdr/-/raw/main/kgj.js",
+    //"ext": "https://jihulab.com/run1006/hdr/-/raw/main/kg.js"
+    //},
     {"key":"Iktv","name": "KTV┃可下载到U盘","type":3,"api": "csp_Iktv","searchable":1, "changeable":0,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/iktv.jar"},
     {
     "key": "yinyuetai",

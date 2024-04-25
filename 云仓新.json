@@ -341,7 +341,7 @@
       "changeable": 0
     },
     {"key":"秒播短剧","name":"秒播短剧-💯┃2K","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-    {"key":"榜一短剧","name":"🥇榜一┃短剧","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/run1006/hdr/-/raw/main/XBPQ.jar","ext":{"分类":"逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39","分类url":"https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"}},
+    {"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"},      
 {"key":"lvdou","name":"👩‍❤️‍💋‍👨短剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
     {

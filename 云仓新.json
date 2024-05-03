@@ -37,7 +37,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
-    {"key": "csp_4k影视","name":"2K影视-💯┃VIP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/4K%E5%BD%B1%E8%A7%86.json"},
+    {"key": "csp_4k影视","name":"2K影视-💯┃VIP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/4K%E5%BD%B1%E8%A7%86.json,"jar":"https://vip.123pan.cn/1823165373/cally/jar/0407.jar"},
     {"key":"夸克玩偶弹幕","name":"4K自营-💯┃VIP","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {"key":"玩偶弹幕","name":"4K玩偶-💯┃VIP","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","site":"https://www.wogg.xyz","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {"key":"夸克土豆弹幕","name":"4K原画-💯┃4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},

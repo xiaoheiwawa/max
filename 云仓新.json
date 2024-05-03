@@ -58,7 +58,7 @@
     //{"key":"csp_XYQHikerAL_玩你老哥","name":"4K多多-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./云仓专线.json","jar":"./云仓专线.jar"},
     {"key": "csp_XYQHikerAL_4KHDR","name":"4KHDR-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/4KHDR.json"},
     //{"key": "Fangniu4k","name": "影探放牛💯┃4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":1,"playerType": 1,"jar":"./wex.txt"},
-    {"key":"影探蓝光","name":"影探4K-💯┃VIP","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,
+    {"key":"影探4K","name":"影探4K①-💯┃VIP","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo",
 "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;81330412e1f9e6c407ad8d08db400590"},
     {"key":"影探蓝光","name":"影探4K②-💯┃VIP","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1,"playerType": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6"},

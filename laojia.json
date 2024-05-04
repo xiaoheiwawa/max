@@ -33,6 +33,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
+    {"key": "csp_4k影视","name":"2K影视-💯┃VIP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/4K%E5%BD%B1%E8%A7%86.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/0407.jar"},
     {"key":"白嫖影视","name":"白嫖云仓-💯┃2k","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/baipiao.json"},
     {"key":"csp_文才","name":"云仓在线-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://gitee.com/chenrun1984/4k/raw/master/%E6%96%87%E6%89%8D.json"},
     {

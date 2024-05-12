@@ -66,7 +66,7 @@
     //{"key":"Fangniu4k","name":"影探放牛💯┃4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":1,"playerType": 1,//"jar":"https://jihulab.com/run1006/hdr/-/raw/main/lib/wex.txt"},
     //{"key":"白嫖影视","name":"白嫖云仓-💯┃2k","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/baipiao.json"},
     {"key":"csp_文才","name":"云仓在线-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://gitee.com/chenrun1984/4k/raw/master/%E6%96%87%E6%89%8D.json"},
-    {"key":"视频库","name":"三线视频-💯┃2K","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
+    {"key":"视频库","name":"三线视频-💯┃2K","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;81330412e1f9e6c407ad8d08db400590"},
     {
       "key": "TVB云播",
       "name": "云影tvb-💯┃2K",
@@ -355,7 +355,7 @@
     {"key":"秒播短剧","name":"秒播短剧-💯┃2K","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"}, 
     {"key":"星芽短剧","name":"在线短剧-💯┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},     
-//{"key":"lvdou","name":"👩‍❤️‍💋‍👨短剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/"},
+//{"key":"lvdou","name":"👩‍❤️‍💋‍👨短剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;81330412e1f9e6c407ad8d08db400590"},
     {
       "key": "Aid",
       "name": "🚑急救┃教学",

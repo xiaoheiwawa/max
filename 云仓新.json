@@ -134,6 +134,7 @@
      "jar":"https://jihulab.com/run1006/hdr/-/raw/main/jar/vip.jar",
      "ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"
     },
+    {"key": "低端影视","name": "低端影视-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
     {"key":"热播","name":"热播云仓-💯┃2k","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn"},
     {"key": "天天","name": "天天云仓-💯┃2k","type": 3,"api":"csp_TTian","playerType": 1,"ext":"http://op.ysdqjs.cn"},
     {"key":"csp_XYQHikerAL_阿里苏苏","name":"外剧云仓-💯┃2k","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main//苏苏.js"},

@@ -123,16 +123,6 @@
 	{"key":"韩剧视频","name":"韩剧视频","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3"},
 {"key":"云仓高速","name":"云仓高速-💯┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"},
 {"key":"在线之家","name":"在线之家-💯┃2K","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
-{
-            "key": "低端影视",
-            "name": "低端影视-💯┃2K",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;9e79087f6f35a50b724b52ea9d93e519"
-        },
     {
      "key": "csp_XBPQ_6V",
      "name": "云仓专享-💯┃2k",

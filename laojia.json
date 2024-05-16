@@ -5,7 +5,7 @@
 "warningText":"欢迎使用4K云仓",
 
   "sites":[
-    {"key":"明日影视","name":"云仓直连-💯┃2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3"},
+    //{"key":"明日影视","name":"云仓直连-💯┃2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,//"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3"},
     {
       "key": "csp_qx",
       "name": "云仓2K-💯┃vip",

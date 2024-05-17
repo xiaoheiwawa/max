@@ -11,6 +11,7 @@
     {"key":"云盘登录","name":"🅰️阿里云盘登录✅","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     //{"key":"明日影视","name":"云仓直连-💯┃2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/spider.jar;md5;1ee361a1e82bb47bb7a9582055634ca3"},
     {"key":"csp_文才","name":"云仓在线-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/0104.jar","ext":"https://gitee.com/chenrun1984/4k/raw/master/%E6%96%87%E6%89%8D.json"},
+    {"key": "阿里合集","name": "云仓合集-💯┃4K","type": 3,"api": "csp_AliShare","searchable": 1,"changeable": 0,"filterable": 0,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","share":"https://gitee.com/chenrun1984/4k/raw/master/%E5%90%88%E9%9B%86.txt"},"style": {"type": "list"},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"},
     {
       "key": "csp_qx",
       "name": "云仓2K-💯┃vip",

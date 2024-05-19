@@ -28,7 +28,7 @@
         "share_id": "sg8CdGUwmUr"
     },
     {
-        "share_name": "云仓4K影视",
+        "share_name": "云仓4K电影",
         "share_id": "wHPKUENKFsS"
     }
 ]

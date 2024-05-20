@@ -1,9 +1,5 @@
 [
     {
-        "share_name": "云仓综合",
-        "share_id": "uWa9gbM3RJ7"
-    },
-    {
         "share_name": "云盘1T",
         "share_id": "mxAfB6eRgY4"
     },
@@ -18,10 +14,6 @@
     {
         "share_name": "云仓剧集",
         "share_id": "dieULBdYP3D"
-    },
-    {
-        "share_name": "云仓优源",
-        "share_id": "RnjUi1urdb2"
     },
     {
         "share_name": "云仓聚合",

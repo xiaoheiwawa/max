@@ -143,7 +143,7 @@
     {"key":"csp_黑狐","name":"黑狐云仓-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/黑狐.json"},
 //{"key": "csp_bttwo","name":"云仓BT-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/bttwo.json"},
 {"key": "csp_SeedHub","name": "4K直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
-    {"key": "wxb","name": "🥊搏击┃拳击","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
+    {"key": "wxb","name": "🥊｜格斗","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
     {
       "key": "csp_MeijuTT",
       "name": "🇺🇸美剧┃天堂",

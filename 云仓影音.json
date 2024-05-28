@@ -2,7 +2,7 @@
   "spider": "https://jihulab.com/run1006/hdr/-/raw/main/lib/cesi.jar",
   "wallpaper": "http://luoye.shop/tupian.php",
 
-"warningText":"欢迎使用4K云仓",
+"warningText":"欢迎使用云仓影音",
 
   "sites":[
   {"key": "Iktv","name": "🎤KTV｜点「音轨」切换原唱/伴唱","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-05/2024-05-05_20:36:48/1714912608541/68262102/wex.txt;md5;1cb1c363b301e6b8b6c44f3e036e640e"},
@@ -41,17 +41,17 @@
     //{"key":"玩偶弹幕","name":"4K玩偶-💯┃VIP","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext"://{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","site":"https://www.wogg.xyz","danmu":true},//"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {"key":"夸克土豆弹幕","name":"4K原画-💯┃4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
     {"key": "玩偶哥哥1","name": "4K玩偶-💯┃vip","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/玩偶哥哥.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;bed168f684a623828705bc62da3d441c"},
-    {
-      "key": "玩偶哥哥",
-      "name": "4K弹幕-💯|VIP",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
-      "jar": "https://jihulab.com/run1006/hdr/-/raw/main/饭原版.bin"
-    },
+    //{
+      //"key": "玩偶哥哥",
+      //"name": "4K弹幕-💯|VIP",
+      //"type": 3,
+      //"api": "csp_WoGG",
+      //"searchable": 1,
+      //"quickSearch": 1,
+      //"changeable": 0,
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+      //"jar": "https://jihulab.com/run1006/hdr/-/raw/main/饭原版.bin"
+    //},
     //{"key":"玩偶","name":"4K弹幕-💯┃vip","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": /////{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},//"jar":"https://d.kstore.space/download/6509/A/B/C/D/E/F/G/jar/%E9%A5%AD%E5%8E%9F%E7%89%88"},
     //{"key": "玩我哥哥","name":"4K云仓-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/%E7%8E%A9%E6%88%91.json"},
     {"key":"csp_XYQHikerAL_土豆阿里","name":"4K阿里💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/chenrun1984/4k/raw/master/%E5%9C%9F%E8%B1%86.json"},
@@ -143,7 +143,7 @@
     {"key":"csp_黑狐","name":"黑狐云仓-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/黑狐.json"},
 //{"key": "csp_bttwo","name":"云仓BT-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/bttwo.json"},
 {"key": "csp_SeedHub","name": "4K直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
-    {"key": "wxb","name": "🥊｜格斗","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
+    {"key": "wxb","name": "❣️｜武享吧","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
     {
       "key": "csp_MeijuTT",
       "name": "🇺🇸美剧┃天堂",

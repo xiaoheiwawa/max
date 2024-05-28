@@ -143,7 +143,7 @@
     {"key":"csp_黑狐","name":"黑狐云仓-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/黑狐.json"},
 //{"key": "csp_bttwo","name":"云仓BT-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/run1006/hdr/-/raw/main/bttwo.json"},
 {"key": "csp_SeedHub","name": "4K直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
-    {"key": "wxb","name": "❣️｜武享吧","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
+    //{"key": "wxb","name": "❣️｜武享吧","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js",//"ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
     {
       "key": "csp_MeijuTT",
       "name": "🇺🇸美剧┃天堂",
@@ -325,7 +325,7 @@
     //{"key": "上头短剧","name": "上头短剧-💯┃秒播","type": 3,"api": "csp_Duanju","searchable": 1,"changeable": 0,//"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"},
     {"key":"csp_XBPQ_胖嘟嘟","name":"超秒短剧-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
     {"key": "河马短剧","name": "云仓短剧-💯┃秒播","type": 3,"api": "csp_Wexduanjuhema","searchable": 1,"changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;bed168f684a623828705bc62da3d441c"},
-    {"key":"秒播短剧","name":"秒播短剧-💯┃2K","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+    //{"key":"秒播短剧","name":"秒播短剧-💯┃2K","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,//"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"}, 
     {"key":"星芽短剧","name":"在线短剧-💯┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},     
 //{"key":"lvdou","name":"👩‍❤️‍💋‍👨短剧┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,//"ext":"http://106.52.241.21:83/api.php/app/",//"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},

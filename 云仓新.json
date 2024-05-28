@@ -310,7 +310,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {"key":"csp_XBPQ_胖嘟嘟","name":"短剧-💯┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
+    {"key":"csp_XBPQ_胖嘟嘟","name":"云仓短剧-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"}, 
     {"key":"星芽短剧","name":"在线短剧-💯┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
     {
@@ -419,16 +419,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.space/download/6509/lib/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
-    },
-    {
-      "key": "mtv_xp_维奇动漫",
-      "name": "云仓动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://d.kstore.space/download/4620/dongman.json"
     },
     {
       "key": "csp_Dm84",

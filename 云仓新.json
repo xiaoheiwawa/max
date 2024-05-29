@@ -316,6 +316,26 @@
     {"key": "NT动漫","name": "NT动漫-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/NT动漫.js"},
 {"key": "58动漫","name": "58动漫-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"},
 {"key": "动漫岛","name": "动漫岛-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/动漫岛.js"},
+{
+      "key": "csp_Dm84",
+      "name": "动漫巴士-💯┃秒播",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://d.kstore.space/download/6509/lib/fan28.jar"
+    },
+    {
+      "key": "py_返老还童",
+      "name": "卡通动漫-💯┃秒播",
+      "type": 3,
+      "api": "py_kt30",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://d.kstore.space/download/6509/lib/py_kt30.py"
+    },
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
@@ -422,26 +442,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.space/download/6509/lib/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "动漫巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://d.kstore.space/download/6509/lib/fan28.jar"
-    },
-    {
-      "key": "py_返老还童",
-      "name": "卡通动漫",
-      "type": 3,
-      "api": "py_kt30",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://d.kstore.space/download/6509/lib/py_kt30.py"
     },
     {
       "key": "py_CTV",

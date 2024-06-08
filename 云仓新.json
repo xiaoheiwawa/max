@@ -117,6 +117,8 @@
 	{"key":"芒果视频","name":"芒果视频-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
     {"key": "搜狗视频","name": "搜狗视频💯┃2K","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/搜狗视频.js"},
     {"key":"腐剧视频","name":"腐剧视频","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7ddc08e410d76ceb8af9209e828a46f4"},
+    {"key": "剧圈圈","name": "自建蓝光-💯┃2K","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/剧圈圈.js"},
+{"key": "两个磁力","name": "两个BT-💯┃2K","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
 {"key":"云仓高速","name":"云仓高速-💯┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"},
 {"key":"在线之家","name":"在线之家-💯┃2K","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
     {
@@ -321,7 +323,7 @@
       "changeable": 0
     },
     {"key":"csp_XBPQ_胖嘟嘟","name":"云仓短剧-💯┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
-    {"key":"夜猫短剧","name":"💛夜猫短剧","type":3,"api":"csp_YMduanju","jar":"http://mywlkj.ddns.net:5212/f/VQLTY/ymdj.jar","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "精品短剧","name": "精品短剧-💯┃秒播","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
     {"key":"csp_Bili短剧","name":"💓哔哔┃短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://d.kstore.space/download/6509/H/H/X/X/T/T/X/S/lib/Bili%E7%9F%AD%E5%89%A7.json"}, 
     {"key":"星芽短剧","name":"在线短剧-💯┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
     {"key": "NT动漫","name": "NT动漫-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/NT动漫.js"},

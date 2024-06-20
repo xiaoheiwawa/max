@@ -267,7 +267,6 @@
     //"api": "https://jihulab.com/run1006/hdr/-/raw/main/kgj.js",
     //"ext": "https://jihulab.com/run1006/hdr/-/raw/main/kg.js"
     //},
-    //{"key": "Iktv","name": "🎤KTV｜点「音轨」切换原唱/伴唱","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": //"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;//9444b0b28c5cb68ab4eaf35ac147de8e"},
     //{"key":"Iktv","name": "KTV┃可下载到U盘","type":3,"api": "csp_Iktv","searchable":1, "changeable":0,//"jar":"https://jihulab.com/run1006/hdr/-/raw/main/iktv.jar"},
     {
     "key": "yinyuetai",
